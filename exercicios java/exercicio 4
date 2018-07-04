@@ -1,0 +1,10 @@
+4
+
+
+crie duas listas no seu csript, uma de meninos e uma de menininas.
+Ex:  let meninos ={"João", "jose", "Luis"}
+
+Como as festas juninas estão chegando, os meninos e meninas vão formar duplas
+para dancar quadrilha
+
+use e console.log para mostrar  no console TODAS as duplas possiveis entre meninos e meninas.

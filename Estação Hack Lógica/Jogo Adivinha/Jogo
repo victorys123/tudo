@@ -1,0 +1,21 @@
+NUMERO = 1000
+PENSANDO = ?
+NUMEROMAIOR = 2000
+NUMEROMENOR = 0
+RESULTADO = 0
+
+ENQUANTO (numero for diferente que PENSANDO) REPITA:
+  Você está pensando em NUMERO?
+  SE(CORRETO)
+    acertou o numero 
+  SENÃO 
+    SE(MAIOR)
+      RESULTADO = (NUMEROMAIOR - NUMERO)/2
+      NUMEROMENOR = NUMERO
+      NUMERO = NUMERO + RESULTADO
+      para numero quebrado arredonde para baixo
+    SENÃO
+      NUMEROMAIOR = NUMERO
+      NUMERO = NUMERO / 2
+      NUMEROMENOR = NUMERO
+      para numero quebrado arredonde para baixo

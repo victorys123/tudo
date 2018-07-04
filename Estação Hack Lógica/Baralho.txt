@@ -1,0 +1,8 @@
+ENQUANTO (houverem cartas sobre a mesa) REPETIR:
+    pegar uma próxima carta da mesa.
+    SE (carta pega tiver um 3) E (a carta pega tiver um coração):
+        Responder: ENCONTROU.
+        Parar.
+    SENÃO: descartar a carta no lixo.
+
+Responder: NÃO ENCONTROU.

@@ -1,0 +1,9 @@
+5
+
+Usar janelinha de prompt para cadastrar um usuario, com nome, login, senha, data de nascimento,
+premium (booleano - dica usar CONFIRM ao inves de PROMPT). Salvar esses dados em um objeto
+e imprimir no console 
+
+Extra:
+exibir tambem no console a idade do usuario no dia do HEXA !!! calculada a partir da data de nascimento.
+

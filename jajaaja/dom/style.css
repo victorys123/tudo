@@ -1,0 +1,15 @@
+body {
+    margin: 0%;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 200px;
+    background-color: gray;
+}
+#titulo {
+    color: red;
+
+}

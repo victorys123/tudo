@@ -1,0 +1,6 @@
+let meninos = ["James", "Neymar", "Renan", "Messi", "Kazim"];
+let meninas = ["Maria", "Marta", "Morgana", "Ana", "Carol"];
+
+
+let contadorMeninos = 0;
+let contadorMeninas = 0;

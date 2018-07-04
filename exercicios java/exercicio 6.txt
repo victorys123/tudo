@@ -1,0 +1,4 @@
+Ao terminar um exercicio feito com while, verifique se ele pode ser substituido por um for(tradicional,in, of). 
+Se sim, faça o exercicio novamente usando o for correto.
+
+Transforme pelo menos dois dos seus exercicios de funções.

@@ -1,0 +1,18 @@
+Lista de Nipes:
+	- copas = coração vermelho
+	- ouro = diamante vermleho
+	- espadas = coração preto com um pequeno triângulo
+	- paus = trevo preto com um pequeno triângulo
+
+perguntar e lembrar qual é o simbolo.
+perguntar e lembrar o nipe.
+
+colocar o baralho baralho sobre a mesa
+
+enquanto (houver cartas) repetir:
+pagar a próxima carta
+se (simbolo for SIMBOLO) e (desenho for a descrição de nipe):
+responder se encontrou
+parar
+se não descarte a carta ao lado
+responder não encontrei.

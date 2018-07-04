@@ -1,0 +1,27 @@
+EXERCICIOS
+1. Criar um programa que avalia uma proposta de emprestimo.
+O programa recebe: idade do cliente, quanto dinheiro ele quer emprestar, quanto
+ele recebe por mes:
+
+
+REGRAS para ACEITAR o emprestimo
+-Entre 22 e 55 anos.
+- Valor a partir de 1000 reais.
+- Valor não pode ultrapassar 15x o que ele recebe por mês.
+
+
+EXTRA
+-Perguntar tambem a quantidade de parcelas (3 a 20 vezes ) e calcular juros de 8%
+ao mes (COMPOSTO)
+RESPONDER VALOR TOTAL DO EMPRESTIMO E VALOR DA PARCELA.
+
+
+Perguntar idade (if)
+
+prompt
+
+idade => 22 <= 55
+ 
+emprestimo => 1000
+
+salario 

@@ -1,0 +1,12 @@
+Exercicios:
+
+ 2. Adivinhe o numero.
+
+ criar uma variavel com um numero entre0 e 50;
+
+ Criar um prompt para que o usuario tente adivinhar o numero.
+ Se ele acertou, então dar os parabens e encerrar.
+ se for um numero baixo, respnder que é maior
+ Se for um numero alto, responder menor
+
+ EXTRA: Pesquisar codigo para gerar o numero secreto aleatoriame.

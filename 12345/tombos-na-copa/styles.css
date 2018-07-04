@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: #000544;
+    padding: 5em 3em;
+    color: #fff;
+}
+h1{
+    margin: 0;
+    font-size: 42px;
+}
+h3{
+    margin: 0;
+    font-size: 12px;
+    font-weight: normal;
+}
+.banner{
+    background-image: url(images/gato.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 480px;
+    overflow: auto;
+}
+.banner p{
+    padding: 1em;
+    font-size: 42px;
+    margin: 0;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+.text-right{
+    text-align: right;
+}
+.gatos{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 0;
+}
+.gatos div{
+    width: 30%;
+    text-align: center;
+    font-size: 12px;
+}
+.gatos img{
+    width:  100%;
+}
+.gatos p{
+    margin: 0;
+}

@@ -1,0 +1,35 @@
+ex-3
+vc tem um baralho com todas as cartas do mesmo nipe, 
+embaralhado. escreva um procedimento passo a passo para colocar em essas cartas em ordem 
+do menor para o maior, para que possamos usar uma busca mais eficiente pelas cartas.
+
+---------------------------------------------------------
+
+a=1
+pegue o baralho
+vire a primeira carta do baralho
+
+enquanto (ainda houverem cartas)
+se (houver uma carta igual na mesa)
+coloque no mesmo monte
+senão
+crie um monte
+
+repetir (enquanto houverem cartas)
+coloque-as em ordem crescente
+
+---------------------------------------------------------
+                                                        |
+{"c minha letra } para quinta feira 14/06               |              
+{Bubble Sort"   } para quinta feira 14/06               |
+                                                        |
+--------------------------------------------------------
+
+A merge sort
+B heap sort
+C bubble sort
+D quick sort
+E selection sort
+F insertion sort
+
+

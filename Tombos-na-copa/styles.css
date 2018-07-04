@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: aqua;
+    padding: 15px;
+}
+
+h1{
+    margin: 0;
+    color: white;
+    font-family: 'Raleway', cursive;
+    font-size: 42px;
+    text-align: center;
+}
+
+.banner{
+    background-image: url(img/banner.jpg);
+    background-size: cover;
+    height: 500px;
+    overflow: auto;
+}
+
+.texto-direita{
+    text-align: right;
+}
+
+.banner p{
+    text-shadow: 0 0 10px black;
+    color: floralwhite;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.tombos{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.tombos div{
+    width: 30%;
+}
+
+.tombos div img{
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+hackadm092@hack092-pc MINGW64 ~
+$ npm -v
+6.1.0
+
+hackadm092@hack092-pc MINGW64 ~
+$ node -v
+v8.9.3
+
+hackadm092@hack092-pc MINGW64 ~
+$ npm install -g create-react-app
+C:\Users\rackadm092\AppData\Roaming\npm\create-react-app -> C:\Users\rackadm092\AppData\Roaming\npm\node_modules\create-react-app\index.js
++ create-react-app@1.5.2
+added 67 packages from 20 contributors in 3.327s
+
+hackadm092@hack092-pc MINGW64 ~
+$ cd Desktop/
+
+hackadm092@hack092-pc MINGW64 ~/Desktop
+$ cd react
+
+hackadm092@hack092-pc MINGW64 ~/Desktop/react
+$ create-react-app teste

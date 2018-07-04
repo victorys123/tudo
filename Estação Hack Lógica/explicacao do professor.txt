@@ -1,0 +1,63 @@
+EXERCICIO 2
+Adivinhe o número que eu estou pensando. É um número entre 1 a 2000.
+Você pode perguntar o número, e vou responder entre 3 formas diferentes:
+    - Correto (acertou o numero)
+    - maior (se você falou um número muito pequeno)
+    - menor (se você falou um número muito grande)
+
+
+perguntar se o palpite está correto.
+lembrar que o menor possivel é 1.
+lembrar que o maior possive  2000.
+lembrar que o palpite é 1000.
+perguntar se o palpite está correto.
+
+
+enquanto (palpite errado) repetir: 
+se a resposta for 'maior':
+    lembrar que o menor numero agora é o palpite.
+senão:
+    lembrar que o maior numero agora é o palpite.
+
+    lembrar que o palpite agora é o maior numero do intervalo,
+    menos o menor numero do intervalo, mais um, dividido por dois, 
+    arredondado para cima e então somando no menor número do intervalo.
+
+    perguntar se o palpite es correto.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+lembrar que o palpite é 1000.
+perguntar se o palpite está correto.
+
+
+enquanto (palpite errado) repetir:
+ se a resposta for 'maior':
+    lembrar que o palpite é palpite *1.5
+senão:
+    lembrar que o palpite é /2
+    perguntar se o palpite está correto.
+
+--------------------------------------------------------------------------------------------------------------
+
+
+lembrar que o menor possivel é 1.
+lembrar que o maior possive  2000.
+
+
+
+enquanto (palpite errado) repetir: 
+
+    lembrar que o palpite agora é o maior numero do intervalo,
+    menos o menor numero do intervalo, mais um, dividido por dois, 
+    arredondado para cima e então somando no menor número do intervalo.
+
+se a resposta for 'maior':
+    lembrar que o menor numero agora é o palpite.
+senão:
+    lembrar que o maior numero agora é o palpite.
+
+    
+    perguntar se o palpite es correto.
+
+--------------------------------------------------------------------------------------------------------------

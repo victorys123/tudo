@@ -1,0 +1,21 @@
+exercicio 3:
+
+Desenhar uma escadinha no console, usando console.log ();
+
+Perguntar ao usuario o tamanho da escadinha. Exemplo de escadinha tamanho 5:
+#
+##
+###
+####
+#####
+
+Extra: Perguntar ao usuario tambem qual o caracter(material) para construir a escadinha   
+
+Exemplo
+@@
+
+@
+@@
+@@@
+@@@@
+@@@@@

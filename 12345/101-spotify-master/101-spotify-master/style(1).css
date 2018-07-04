@@ -1,0 +1,106 @@
+*{
+	margin: 0;
+	padding:0;
+	padding-top: 0;
+}
+
+nav{
+	height: 70px;
+	background-color: rgba(0, 0, 0, 0.6);
+	position: fixed;
+	z-index: 0;
+	width: 100%;
+	
+
+}
+
+
+a{
+	text-decoration: none;
+	list-style-type: none;
+	color: white;
+}
+
+nav ul{
+	float: right;
+	font-size: 15px;
+	padding-right: 140px;
+	padding-top: 26px;
+}
+
+nav ul li{
+	float: left;
+	list-style-type: none; 
+	margin-left: 20px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.logo{
+	width: 120px;
+	margin-top: 15px;
+	margin-left: 130px;
+}
+
+.title {
+	text-align: center;
+	padding-top: 230px;
+	font-family: ;
+	font-size:80px;
+	font-weight: bold;
+	color: white;
+	font-weight: bolder;
+}
+
+
+	
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+    margin-left: 350px;
+    margin-top: 29px;
+}
+.button2 {
+    background-color: transparent;
+    border: none;
+    color: white;
+    padding: 13px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 29px;
+    border:solid white 2px;
+}
+
+header{
+	background-image: url('img/bkg1.jpg');
+	background-size: 100% auto;
+	padding-bottom: 300px;
+	background-repeat: no-repeat;
+
+}
+
+.container1{
+	float: left;
+}
+
+.container1 h2{
+	width: 180px;
+	font-size: 25px;
+	font-weight: bolder;
+	padding: 20px 60px;
+}
+.guia2{
+	width: 100%;
+	z-index:-1;
+	position: absolute;
+	opacity:0.5;
+}
